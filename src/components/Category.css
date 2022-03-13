@@ -1,0 +1,27 @@
+.search {
+  margin-bottom: 3rem;
+  margin-left: 20rem;
+}
+
+.inner-search {
+  height: 5vh;
+  border-color: gray;
+  border-radius: 15px;
+  border-width: 2px;
+}
+
+.search-title {
+  font-size: 1.3rem;
+}
+
+.btn-dark {
+  background-color: #343a40;
+  border-color: #343a40;
+  margin-left: 5rem;
+}
+
+.btn-dark:hover {
+  background-color: whitesmoke;
+  border-color: #343a40;
+  color: #343a40;
+}
